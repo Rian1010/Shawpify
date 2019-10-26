@@ -1,0 +1,17 @@
+html {
+    overflow-y: scroll;
+}
+
+body {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+main {
+	margin-bottom: 30px;
+}
+
+ /*img {
+    border: 5px dotted;
+    border-image: 5px;
+ }*/
